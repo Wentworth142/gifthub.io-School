@@ -1,1 +1,1 @@
-# gifthub.io-School
+gifthub
